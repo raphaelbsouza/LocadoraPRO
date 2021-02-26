@@ -8,3 +8,8 @@ C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.pdb
 C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.exe
 C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.pdb
+C:\Users\RAPH-DESKTOP\Desktop\LocadoraPRO\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.exe
+C:\Users\RAPH-DESKTOP\Desktop\LocadoraPRO\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.pdb
+C:\Users\RAPH-DESKTOP\Desktop\LocadoraPRO\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.csprojResolveAssemblyReference.cache
+C:\Users\RAPH-DESKTOP\Desktop\LocadoraPRO\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.exe
+C:\Users\RAPH-DESKTOP\Desktop\LocadoraPRO\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.pdb
