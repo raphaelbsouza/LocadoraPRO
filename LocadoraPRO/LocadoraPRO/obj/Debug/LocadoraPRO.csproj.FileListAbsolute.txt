@@ -1,0 +1,10 @@
+C:\Users\therock\Documents\SharpDevelop Projects\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.csprojResolveAssemblyReference.cache
+C:\Users\therock\Documents\SharpDevelop Projects\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.exe
+C:\Users\therock\Documents\SharpDevelop Projects\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.pdb
+C:\Users\therock\Documents\SharpDevelop Projects\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.exe
+C:\Users\therock\Documents\SharpDevelop Projects\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.pdb
+C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.exe
+C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\bin\Debug\LocadoraPRO.pdb
+C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.exe
+C:\Users\Usuario\Desktop\LocadoraPRO\LocadoraPRO\obj\Debug\LocadoraPRO.pdb
